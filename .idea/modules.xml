@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/geometria.iml" filepath="$PROJECT_DIR$/geometria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ladocu/ladocu.iml" filepath="$PROJECT_DIR$/ladocu/ladocu.iml" />
     </modules>
   </component>
 </project>
