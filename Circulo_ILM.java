@@ -1,6 +1,6 @@
 
 public class Circulo_ILM extends FiguraGeometrica_ILM {
-	private double radio;
+	private double radio = 7;
 	//Constante pi
 	static final double PI = 3.1416;
 	

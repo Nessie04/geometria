@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/geometria.iml" filepath="$PROJECT_DIR$/geometria.iml" />
       <module fileurl="file://$PROJECT_DIR$/ladocu/ladocu.iml" filepath="$PROJECT_DIR$/ladocu/ladocu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>
   </component>
 </project>
