@@ -7,6 +7,9 @@ public class Circulo_ILM extends FiguraGeometrica_ILM {
 	public Circulo_ILM(double r, String tipoFigura) {
 		super(tipoFigura);
 		radio = r;
+		if (r<0){
+			Math.abs(r);
+		}
 	}
 
 	@Override
